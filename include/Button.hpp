@@ -25,9 +25,3 @@ namespace gui
 }
 
 #endif // BUTTON_H
-
-/*
- 
- rdfgdfögdfögldkfö
- 
- */
